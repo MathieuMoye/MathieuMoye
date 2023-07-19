@@ -1,6 +1,8 @@
-<img align="center" src='https://i.pinimg.com/originals/01/ec/5c/01ec5c37f26599b290176e884962c7d1.gif' alt='Obi wan hello there' />
+<div align="center">
+  <img align="center" src='https://i.pinimg.com/originals/01/ec/5c/01ec5c37f26599b290176e884962c7d1.gif' alt='Obi wan hello there' />
 
 <h1 align="center">I'm MathieuMoye 👋 </h1>
+</div>
 <!--
 **MathieuMoye/MathieuMoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
