@@ -9,9 +9,9 @@
 <div>
 
   
-- 🎓 J'étudie actuellement à l'école O'clock.
+- 🎓 J'étudie actuellement à la Wild Code School.
   
-- 🌱 Je perfectionne ReactJs/NodeJs et j'apprends PHP.
+- 🌱 Je perfectionne ReactJs/NodeJs.
   
 - 💪 J'adorerais apprendre Typescript et Vue
   
