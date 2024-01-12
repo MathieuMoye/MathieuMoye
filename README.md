@@ -9,7 +9,7 @@
 <div>
 
   
-- 🎓 J'étudie actuellement à la Wild Code School.
+- 🎓 J'étudie actuellement à openclassrooms.
   
 - 🌱 Je perfectionne ReactJs/NodeJs.
   
